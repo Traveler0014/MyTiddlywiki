@@ -1,0 +1,19 @@
+caption: {{$:/language/Buttons/Linkify/Caption}}
+condition: [<targetTiddler>!has[type]] [<targetTiddler>type[text/vnd.tiddlywiki]]
+created: 20210516013739764
+creator: travonD
+description: {{$:/language/Buttons/Linkify/Hint}}
+icon: $:/core/images/linkify
+modified: 20210516013742064
+modifier: travonD
+shortcuts: ((linkify))
+tags: $:/tags/EditorToolbar
+title: $:/core/ui/EditorToolbar/linkify
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage
+	$message="tm-edit-text-operation"
+	$param="wrap-selection"
+	prefix="[["
+	suffix="]]"
+/>
