@@ -1,10 +1,15 @@
+color: #9b59b6
 created: 20210516014301107
 creator: travonD
+icon: $:/core/images/list
 list-before: $:/core/ui/SideBar/Open
-modified: 20210516014624092
+modified: 20210518141633163
 modifier: travonD
 tags: $:/tags/SideBar
 title: 目录
+tmap.id: b3f77a37-7fff-473b-a9e6-567d0d58fa69
 type: text/vnd.tiddlywiki
 
+<div class="tc-table-of-contents">
 <<toc-selective-expandable "目录" sort[title]>>
+</div>

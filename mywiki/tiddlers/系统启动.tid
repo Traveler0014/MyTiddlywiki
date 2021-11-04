@@ -1,0 +1,16 @@
+created: 20210628133431989
+creator: travonD
+modified: 20210628135009027
+modifier: travonD
+tags: 计算机科学
+title: 系统启动
+tmap.id: 48a205c9-7fe5-4fca-8163-d07109e277c7
+type: text/vnd.tiddlywiki
+
+系统的启动需要分段的引导.
+
+# 系统上电: [[BIOS]]/[[UEFI]]运行, 进行系统自检, 检查完成后, 将保存在磁盘引导扇区的BOOT程序载入内存.
+
+# BOOT程序: 由于BOOT程序容量限制(512KB), 能够实现的功能有限. 因此, BOOT程序的目的在于加载Loader程序. 
+
+# Loader程序: 提供可供用户选择载入的列表, 并能够完成系统内核的载入, 可以认为是一个简易的操作系统.

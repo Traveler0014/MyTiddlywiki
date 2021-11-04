@@ -1,7 +1,18 @@
+color: #16a085
 created: 20210516014636498
 creator: travonD
-modified: 20210516014643596
+icon: $:/core/images/folder
+modified: 20210518141632950
 modifier: travonD
 tags: 目录
 title: 物理学
+tmap.id: 02577d69-4a52-4c33-b3ad-cb3b2cb63186
 type: text/vnd.tiddlywiki
+
+物理学是研究物质及其相互作用的学科.
+
+---
+条目索引
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "物理学" sort[title]>>
+</div>

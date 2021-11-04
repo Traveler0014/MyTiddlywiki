@@ -1,0 +1,10 @@
+created: 20210613050455785
+creator: travonD
+modified: 20210613050736167
+modifier: travonD
+tags: 计算机科学
+title: Alpha通道
+tmap.id: e9d536ab-f4a3-4a98-813f-65b4ca9877c3
+type: text/vnd.tiddlywiki
+
+控制图像透明度的值, 对应的有[[RGB通道]].

@@ -1,0 +1,10 @@
+created: 20210518092431882
+creator: travonD
+modified: 20210518141633594
+modifier: travonD
+tags: 计算机科学
+title: 编译
+tmap.id: f3dc298f-e2a8-4511-8696-6f5549fec447
+type: text/vnd.tiddlywiki
+
+将人类可读的代码转变至机器读取的二进制文件, 形成计算机程序的过程, 叫做编译. 

@@ -1,8 +1,8 @@
 created: 20210516013809532
 creator: travonD
-modified: 20210516013813659
+modified: 20210516055212947
 modifier: travonD
 title: $:/config/EditorToolbarButtons/Visibility/$:/plugins/tiddlywiki/katex/ui/EditorToolbar/katex
 type: text/vnd.tiddlywiki
 
-show
+hide

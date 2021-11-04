@@ -1,8 +1,8 @@
 created: 20210516013719680
 creator: travonD
-modified: 20210516013725170
+modified: 20210516055147293
 modifier: travonD
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/heading-2
 type: text/vnd.tiddlywiki
 
-show
+hide

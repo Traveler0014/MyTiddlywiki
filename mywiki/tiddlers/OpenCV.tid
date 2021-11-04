@@ -1,0 +1,16 @@
+created: 20210613050254616
+creator: travonD
+modified: 20210703074729093
+modifier: travonD
+tags: 计算机科学
+title: OpenCV
+tmap.id: e7211915-06ed-4bee-83b1-a075c21ecb05
+type: text/vnd.tiddlywiki
+
+一个高度优化专注于实时图像处理的[[计算机视觉]]库.
+
+---
+条目索引
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "OpenCV" sort[title]>>
+</div>

@@ -1,7 +1,18 @@
+color: #16a085
 created: 20210516014629049
 creator: travonD
-modified: 20210516014636532
+icon: $:/core/images/folder
+modified: 20210518141634485
 modifier: travonD
 tags: 目录
 title: 计算机科学
+tmap.id: 0b0723c4-9be1-4f95-a395-f66f10749c81
 type: text/vnd.tiddlywiki
+
+计算机科学是一门与[[数学]]具有紧密联系的学科, 其研究的内容主要是[[信息]]的产生, 运算和传输.
+
+---
+条目索引
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "计算机科学" sort[title]>>
+</div>

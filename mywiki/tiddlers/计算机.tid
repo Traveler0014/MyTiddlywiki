@@ -1,0 +1,12 @@
+created: 20210516060649054
+creator: travonD
+modified: 20210518141634019
+modifier: travonD
+tags: 计算机科学
+title: 计算机
+tmap.id: 431b07a8-190b-4b1e-8e2d-92277e5d3b78
+type: text/vnd.tiddlywiki
+
+计算机的主要组成部分为: [[处理单元]], [[存储单元]], [[控制单元]], [[输入单元]]和[[输出单元]].
+
+计算机的工作原理可以抽象为: 读取外界的[[信息]], 对其处理和存储后, 输出处理结果.
