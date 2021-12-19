@@ -1,5 +1,5 @@
 created: 20210518152717383
-modified: 20210702011904626
+modified: 20211218025742423
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
 type: text/vnd.tiddlywiki
 
@@ -127,5 +127,33 @@ type: text/vnd.tiddlywiki
  "48a205c9-7fe5-4fca-8163-d07109e277c7": {
   "x": 41,
   "y": 100
+ },
+ "81eedc26-542f-42c9-aa28-a27bc82f9bfd": {
+  "x": -25,
+  "y": 202
+ },
+ "da4eef3f-a81a-4b8b-b5e8-f1052cc424bd": {
+  "x": 124,
+  "y": 186
+ },
+ "d561d2cc-c122-4455-9012-e88a1f9cacb2": {
+  "x": 100,
+  "y": 104
+ },
+ "898f30e9-d163-499b-a066-b133b7ac2122": {
+  "x": -170,
+  "y": 40
+ },
+ "ac8be4a7-75f1-47ad-b634-8a0d3f5b637d": {
+  "x": -177,
+  "y": 162
+ },
+ "f92490b9-6ef2-448a-8e50-6a420704f8d1": {
+  "x": -94,
+  "y": 43
+ },
+ "8c149342-264c-49df-a52b-92c31e52223b": {
+  "x": 74,
+  "y": 74
  }
 }

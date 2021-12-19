@@ -1,0 +1,10 @@
+created: 20211218024717110
+creator: travonD
+modified: 20211218025024733
+modifier: travonD
+tags: C/C++
+title: CMake
+tmap.id: 8c149342-264c-49df-a52b-92c31e52223b
+type: text/vnd.tiddlywiki
+
+一套用以简化大型[[C/C++]]程序[[编译]]的工具, 其可以通过单个配置文件, 声明代码的编译及链接顺序, 并根据不同的编译环境生成对应的Makefile, 最后交由指定的后端编译器编译为二进制文件, 由此提高软件的可迁移性.
