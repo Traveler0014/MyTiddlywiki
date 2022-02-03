@@ -1,0 +1,10 @@
+created: 20220202121948220
+creator: travonD
+modified: 20220202123859257
+modifier: travonD
+tags: 计算机科学
+title: 运行时
+tmap.id: 7b08edfe-64e2-4a98-8fe0-9536ee685069
+type: text/vnd.tiddlywiki
+
+当提到运行时, 通常是指运行时库(Runtime Library), 作为一类代码向机器码的[[映射]], 包含一些复用性较高的基础操作. 在计算机运行过程中, 可以调用运行时库中的相关操作, 避免重复造轮子也可以有效减少冗余代码.
