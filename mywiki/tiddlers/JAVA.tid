@@ -1,0 +1,19 @@
+created: 20220302061659154
+creator: travonD
+modified: 20220302083653243
+modifier: travonD
+tags: 静态语言 计算机科学
+title: JAVA
+tmap.id: 98e18cb3-b4df-48e2-9b03-bd7f1b9ec494
+type: text/vnd.tiddlywiki
+
+! ''基本''数据类型
+* `byte`: 数字类型, 长8位.
+* `short`: 数字类型, 长16位.
+* `int`: 数字类型, 长32位.
+* `long`: 数字类型, 长64位.
+* `float`: 数字类型, 长32位. 单精度浮点数, 1位符号位, 8位指数位, 23位小数位.
+* `double`: 数字类型, 长64位. 单精度浮点数, 1位符号位, 11位指数位, 52位小数位.
+
+* `boolean`: 布尔类型, 长1位.
+* `char`: 字符类型, 长16位.
