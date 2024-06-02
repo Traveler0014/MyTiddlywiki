@@ -1,0 +1,16 @@
+created: 20240601105833650
+creator: travonD
+modified: 20240601105927671
+modifier: travonD
+tags: 计算机科学
+title: 计算理论
+tmap.id: 6c5578fa-76f6-4dfb-a711-fcf987349905
+type: text/vnd.tiddlywiki
+
+表达计算机运算逻辑的数学基础。
+
+---
+条目索引
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "计算理论" sort[title]>>
+</div>

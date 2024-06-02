@@ -1,8 +1,10 @@
 created: 20210518140959439
 creator: travonD
-modified: 20210518141633382
+modified: 20240601110120949
 modifier: travonD
-tags: 计算机科学
+tags: 软件
 title: 编程语言
 tmap.id: 8e128ab0-74bf-47bd-ba92-5f3841e61300
 type: text/vnd.tiddlywiki
+
+用于表达运算逻辑的[[形式化语言]]。

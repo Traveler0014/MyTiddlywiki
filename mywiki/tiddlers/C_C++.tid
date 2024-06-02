@@ -1,10 +1,10 @@
 created: 20211218024036258
 creator: travonD
-modified: 20211218025411948
+modified: 20240601115232380
 modifier: travonD
-tags: 计算机科学 静态语言
+tags: 编译型语言
 title: C/C++
 tmap.id: 81eedc26-542f-42c9-aa28-a27bc82f9bfd
 type: text/vnd.tiddlywiki
 
-一类面向过程的高级程序语言, 作为一种[[静态语言]], 其具有高性能等优点, 是传统老牌且最常用的一类语言.
+一类面向过程的高级程序语言, 作为一种[[编译型语言]], 其具有高性能等优点, 是传统老牌且最常用的一类语言.
