@@ -1,0 +1,13 @@
+created: 20240812021613750
+creator: travonD
+draft.of: 新条目
+draft.title: MBR
+modified: 20240812021952447
+modifier: travonD
+tags: 软件
+title: Draft of '新条目' by travonD
+type: text/vnd.tiddlywiki
+
+MBR是Main Boot Record的缩写，中文一般译作主引导记录。
+
+顾名思义，功能是在启动计算机时引导设备加载操作系统的功能，该记录由长512字节。
