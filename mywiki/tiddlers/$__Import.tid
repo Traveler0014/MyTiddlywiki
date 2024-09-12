@@ -1,12 +1,7 @@
-created: 20210518141519268
-modified: 20210518141519268
 status: complete
 title: $:/Import
 type: text/vnd.tiddlywiki
 
 下列条目已被导入：
 
-# [[$:/plugins/felixhayashi/tiddlymap]]
-# [[$:/plugins/felixhayashi/vis]]
-# [[$:/plugins/felixhayashi/hotzone]]
-# [[$:/plugins/felixhayashi/topstoryview]]
+# [[$:/plugins/tiddlywiki/markdown]]
