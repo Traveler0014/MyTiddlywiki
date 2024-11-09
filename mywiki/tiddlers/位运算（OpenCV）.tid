@@ -1,9 +1,9 @@
 created: 20210703073907456
 creator: travonD
-modified: 20241107032209221
+modified: 20241108025451953
 modifier: travonD
-tags: 图像处理 运算
-title: 位运算
+tags: 图像处理 运算 OpenCV
+title: 位运算（OpenCV）
 tmap.id: ac8be4a7-75f1-47ad-b634-8a0d3f5b637d
 type: text/vnd.tiddlywiki
 

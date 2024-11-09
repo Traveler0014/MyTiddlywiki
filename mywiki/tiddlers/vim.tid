@@ -1,10 +1,12 @@
 created: 20240912020503651
 creator: travonD
-modified: 20241107134607678
+modified: 20241108024811784
 modifier: travonD
 tags: 软件
 title: vim
 tmap.id: 7fddc204-10eb-4fbb-bc3b-4d9e052cb492
 type: text/vnd.tiddlywiki
 
-命令行环境下常用的文本编辑工具
+命令行环境下常用的文本编辑器，特点是模态编辑。
+
+所谓模态编辑，是指vim通过模式和状态提供不同的文本编辑能力。
