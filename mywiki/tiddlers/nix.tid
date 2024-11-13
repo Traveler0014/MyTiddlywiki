@@ -1,0 +1,10 @@
+created: 20241112115523252
+creator: travonD
+modified: 20241113014757189
+modifier: travonD
+tags: 软件
+title: nix
+tmap.id: aaf38a0f-ae3d-4164-b387-fe76a6702364
+type: text/vnd.tiddlywiki
+
+基于linux的函数式包管理工具，其特点是通过声明式语法描述软件构建流程，从而支持原子化的事务回退，使环境更具有可重复性
