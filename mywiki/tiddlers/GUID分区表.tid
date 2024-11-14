@@ -1,12 +1,12 @@
 created: 20240812023307759
 creator: travonD
-modified: 20240812025014334
+modified: 20241113035627964
 modifier: travonD
 tags: 软件
-title: GPT
+title: GUID分区表
 tmap.id: 4be4367c-e9b6-421f-9110-a42d277f0ed1
 type: text/vnd.tiddlywiki
 
-GUID是GUID Partition Table的缩写，中文暂无标准翻译，一般可称GUID分区表。
+GUID Partition Table，缩写为GPT，中文暂无标准翻译，一般称GPT或GPT分区表。
 
 GPT被视为下一代的分区表设计，其提供更高的灵活性以及对更大硬盘、更多分区的支持。
