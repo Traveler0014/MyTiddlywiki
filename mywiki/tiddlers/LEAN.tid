@@ -1,0 +1,34 @@
+created: 20241116041055299
+creator: travonD
+modified: 20241116041338517
+modifier: travonD
+tags: 数学
+title: LEAN
+tmap.id: d3f1c4c8-f018-4a46-98a6-66ee41694e56
+type: text/vnd.tiddlywiki
+
+Lean is a functional programming language that makes it easy to write correct and maintainable code. You can also use Lean as an interactive theorem prover. Lean programming primarily involves defining types and functions. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming. Lean has numerous features, including:
+
+* Type inference
+
+* First-class functions
+
+* Powerful data types
+
+* Pattern matching
+
+* Type classes
+
+* Extensible syntax
+
+* Hygienic macros
+
+* Dependent types
+
+* Metaprogramming framework
+
+* Multithreading
+
+* Verification: you can prove properties of your functions using Lean itself
+
+The Lean project was launched by Leonardo de Moura when he was at Microsoft Research in 2013. It is an open source project, hosted on GitHub. Lean 4 is the latest version. For installing Lean 4, please see Download. Information about the community of Lean users and the mathematical components library Mathlib can be found at the Lean Community website. The Lean FRO nonprofit was launched in August of 2023. Its mission is to tackle the challenges of scalability, usability, and proof automation in the Lean theorem prover.

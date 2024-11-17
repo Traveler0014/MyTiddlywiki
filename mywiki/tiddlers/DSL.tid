@@ -1,12 +1,12 @@
 created: 20210518085938576
 creator: travonD
-modified: 20210518141630161
+modified: 20241116032424604
 modifier: travonD
 tags: 黑话词典
 title: DSL
 tmap.id: 4cd7212f-cdc4-49c7-b3cd-d9d06dc9306c
 type: text/vnd.tiddlywiki
 
-Domain-Specific Languages, 领域特定语言.
+Domain-Specific Languages，领域特定语言。
 
-指专注于某种应用领域的编程语言, 这种专注的程度其实没有定量的区分, 而只是指出了这门语言在诞生之初便没有对功能完备性的追求.
+指专注于某种应用领域的编程语言，这种专注的程度其实没有明确的边界，只是指出了这门语言在诞生之初便没有对完备性的追求。
