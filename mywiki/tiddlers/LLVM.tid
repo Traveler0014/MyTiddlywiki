@@ -1,18 +1,18 @@
 created: 20211218023625879
 creator: travonD
-modified: 20211218024445622
+modified: 20241127032639615
 modifier: travonD
 tags: C/C++
 title: LLVM
 tmap.id: da4eef3f-a81a-4b8b-b5e8-f1052cc424bd
 type: text/vnd.tiddlywiki
 
-通常说的LLVM是指一套完整的[[编译]]工具链, 其将软件编译过程分为源码, 中间表示层, 二进制文件三个环节, 作为前端, 优化器, 后端三个子项目独立实现, 由此提高整个工具链的灵活性和扩展性. 其中核心即在于用以表达功能的中间层(Intermediate Representation, IR), 在此的具体实现是被称为LLVM Core的优化器(Optimizer).
+通常说的LLVM是指一套完整的[[编译]]工具链，其将软件编译过程分为源码，中间表示层，二进制文件三个环节，作为前端，优化器，后端三个子项目独立实现，由此提高整个工具链的灵活性和扩展性。其中核心即在于用以表达功能的中间层（Intermediate Representation, IR），在此的具体实现是被称为LLVM Core的优化器（Optimizer）。
 
-LLVM Core优良的设计令其不仅能够有效处理静态代码, 也能够对动态的设计进行有效的优化和翻译, 说一种IR设计良好, 直观理解就是表现力强, 更容易在翻译源码时做到信达雅. 
+LLVM Core优良的设计令其不仅能够有效处理静态代码，也能够对动态的设计进行有效的优化和翻译，说一种IR设计良好，直观理解就是表现力强，更容易在翻译源码时做到信达雅。
 
-LLVM把完整的编译工具包称作工具链(Tool Chain), 想从源码编译可运行的文件, 光有LLVM还不够. Clang(发音: 克朗), 作为一种优秀的LLVM前端, 可以处理C/C++/Objective-C/Objective-C++等源码, 将其转化为LLVM IR供后端处理. 
+LLVM把完整的编译工具包称作工具链（Tool Chain），想从源码编译可运行的文件，光有LLVM还不够。Clang（发音: 克朗），作为一种优秀的LLVM前端，可以处理C/C++/Objective-C/Objective-C++等源码，将其转化为LLVM IR供后端处理。
 
-LLVM后端的选择, 与二进制文件所需运行的具体环境有关, 可选的有LLVM JIT, LLVM x86 compiler等多种.
+LLVM后端的选择，与二进制文件所需运行的具体环境有关，可选的有LLVM JIT、LLVM x86 compiler等多种。
 
-完整的LLVM工具链实现的功能与[[GCC]]类似, 即是将高级语言源代码编译为能工作在某一特定硬件上的二进制程序文件.
+完整的LLVM工具链实现的功能与[[GCC]]类似，即是将高级语言源代码编译为能工作在某一特定硬件上的二进制程序文件。

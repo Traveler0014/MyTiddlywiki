@@ -1,11 +1,11 @@
 created: 20211218023318499
 creator: travonD
-modified: 20211218024431859
+modified: 20241127032500432
 modifier: travonD
 tags: C/C++
 title: GCC
 tmap.id: d561d2cc-c122-4455-9012-e88a1f9cacb2
 type: text/vnd.tiddlywiki
 
-GCC, 全称the GNU Compiler Collection, 是一套能够将C, C++等多种高级语言源码[[编译]]生成二进制机器码的软件集合. 
-从源码到二进制文件的过程中, GCC首先将高级语言翻译为Register Transfer Language(RTL)的统一表示, 再根据不同硬件所适用的指令集, 编译为可在具体机型上运行的二进制文件.
+GCC，全称the GNU Compiler Collection，是一套能够将C、C++等多种高级语言源码[[编译]]生成二进制机器码的软件集合。
+从源码到二进制文件的过程中，GCC首先将高级语言翻译为Register Transfer Language(RTL)的统一表示，再根据不同硬件所适用的指令集，编译为可在具体机型上运行的二进制文件。
