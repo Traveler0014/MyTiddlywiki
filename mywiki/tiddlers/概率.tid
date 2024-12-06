@@ -1,0 +1,12 @@
+created: 20241205030153873
+creator: travonD
+modified: 20241205032656994
+modifier: travonD
+tags: 数学
+title: 概率
+tmap.id: 4b9452e2-601d-4e08-aecf-10f0f56525ad
+type: text/vnd.tiddlywiki
+
+对事件发生可能性的描述，通常以区间 [0, 1] 内的实数表示。
+
+0表示绝对不可能发生，称为不可能事件；1表示一定会发生，称为必然事件；介于0到1之间的则统称为偶然事件。
