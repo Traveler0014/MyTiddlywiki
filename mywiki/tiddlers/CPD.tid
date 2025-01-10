@@ -1,6 +1,6 @@
 created: 20241205060228100
 creator: travonD
-modified: 20241205105506408
+modified: 20250110011805689
 modifier: travonD
 tags: 数学 黑话词典
 title: CPD
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 变化点检测（Change Point Detection），是时间序列数据的一种常见分析任务，目标是从测量数据中识别被测对象发生潜在状态转变的时间点。
 
-常用算法：PELT (Pruned Exact Linear Time)、SegNeigh (Segment Neighborhood)
+常用算法：PELT （Pruned Exact Linear Time）、SegNeigh （Segment Neighborhood）
