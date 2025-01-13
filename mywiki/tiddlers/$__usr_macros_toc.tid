@@ -1,0 +1,11 @@
+created: 20250112043604691
+creator: travonD
+modified: 20250112053725575
+modifier: travonD
+tags: $:/tags/Macro
+title: $:/usr/macros/toc
+type: text/vnd.tiddlywiki
+
+\define list-subpages()
+<<toc-selective-expandable $(thisTiddler)$ sort[title]>>
+\end

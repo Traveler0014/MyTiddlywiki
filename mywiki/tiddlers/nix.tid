@@ -1,10 +1,12 @@
 created: 20241112115523252
 creator: travonD
-modified: 20250110011711569
+modified: 20250112025820927
 modifier: travonD
 tags: 软件
 title: nix
 tmap.id: aaf38a0f-ae3d-4164-b387-fe76a6702364
 type: text/vnd.tiddlywiki
 
-基于 linux 的函数式包管理工具，其特点是通过函数式 DSL 定义包构建流程，并着重区分纯函数部分和不纯函数部分，从而尽最大可能提高包构建的可重复性。
+基于 linux 的函数式包管理工具，亮点是提供可重复构建能力。
+
+其中可重复构建是一个新颖的概念，具体来说，nix 通过函数式 DSL 定义包构建流程，并着重区分纯函数部分和不纯函数部分，从而尽最大可能提高包构建的可重复性。

@@ -2,7 +2,7 @@ color: #16a085
 created: 20210516014435362
 creator: travonD
 icon: $:/core/images/folder
-modified: 20241127032134502
+modified: 20250112054549589
 modifier: travonD
 tags: 目录
 title: 数学
@@ -11,8 +11,4 @@ type: text/vnd.tiddlywiki
 
 数学是一门研究数量关系及其运算逻辑的学科
 
----
-条目索引
-<div class="tc-table-of-contents">
-<<toc-selective-expandable "数学" sort[title]>>
-</div>
+<<index-subpages>>

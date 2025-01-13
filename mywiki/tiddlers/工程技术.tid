@@ -1,6 +1,6 @@
 created: 20210522024807509
 creator: travonD
-modified: 20210522024853142
+modified: 20250112054403749
 modifier: travonD
 tags: 目录
 title: 工程技术
@@ -9,8 +9,4 @@ type: text/vnd.tiddlywiki
 
 工程技术相关条目
 
----
-条目索引
-<div class="tc-table-of-contents">
-<<toc-selective-expandable "工程技术" sort[title]>>
-</div>
+<<index-subpages>>

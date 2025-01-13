@@ -1,6 +1,6 @@
 created: 20240601105401874
 creator: travonD
-modified: 20240601105459628
+modified: 20250112054532758
 modifier: travonD
 tags: 计算机科学
 title: 硬件
@@ -9,8 +9,4 @@ type: text/vnd.tiddlywiki
 
 表达运算逻辑的物理实体，被称为计算机硬件。
 
----
-条目索引
-<div class="tc-table-of-contents">
-<<toc-selective-expandable "硬件" sort[title]>>
-</div>
+<<index-subpages>>

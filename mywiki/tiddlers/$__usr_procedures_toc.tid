@@ -1,0 +1,16 @@
+created: 20250112053718295
+creator: travonD
+modified: 20250112054304915
+modifier: travonD
+tags: $:/tags/Global
+title: $:/usr/procedures/toc
+type: text/vnd.tiddlywiki
+
+\procedure index-subpages()
+---
+
+<h3>条目索引</h3>
+
+<div class="tc-table-of-contents">
+<<list-subpages>>
+\end
