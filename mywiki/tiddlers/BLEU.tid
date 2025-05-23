@@ -1,0 +1,10 @@
+created: 20250522132046244
+creator: travonD
+modified: 20250522132617111
+modifier: travonD
+tags: 黑话词典
+title: BLEU
+tmap.id: be56d65f-f0c5-4eb2-9e57-1752979a105f
+type: text/vnd.tiddlywiki
+
+双语替换评测（''B''i''L''ingual ''E''valuation ''U''nderstudy）是一种评估机器翻译质量的算法。核心思想是通过比对相同语句机器翻译得到的输出与人工翻译结果的对应程度来得到量化指标。
