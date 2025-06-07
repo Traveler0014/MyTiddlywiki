@@ -1,0 +1,10 @@
+created: 20250606054648059
+creator: travonD
+modified: 20250606055536607
+modifier: travonD
+tags: NVMe
+title: Admin Queue
+tmap.id: 363a21d0-72da-4ccf-bbf9-65afe794a28e
+type: text/vnd.tiddlywiki
+
+id为0的sq和cq被称为admin queue，用于下发管理命令并接收回复。

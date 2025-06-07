@@ -1,0 +1,9 @@
+created: 20250606055933460
+creator: travonD
+modified: 20250606060258906
+modifier: travonD
+title: NVMe
+tmap.id: da4bee27-61ab-41a5-9ea2-56ac554e1a4b
+type: text/vnd.tiddlywiki
+
+Non-Volatile Memory Express（高速非易失存储）是一种存储器规范，定义了一种面向高随机读写性能的存储介质的交互协议。
