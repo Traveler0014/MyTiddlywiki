@@ -1,6 +1,6 @@
 created: 20240601105833650
 creator: travonD
-modified: 20250112054428735
+modified: 20251104032247333
 modifier: travonD
 tags: 计算机科学 数学
 title: 计算理论
@@ -8,6 +8,12 @@ tmap.id: 6c5578fa-76f6-4dfb-a711-fcf987349905
 type: text/vnd.tiddlywiki
 
 表达计算机运算逻辑的数学基础。
+
+讨论以下问题：
+
+* 计算的本质是什么？
+* 哪些问题是可计算的？哪些不可以？
+* 不同的计算间允许存在哪些等效和变换？
 
 
 <<index-subpages>>

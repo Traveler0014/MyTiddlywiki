@@ -1,10 +1,10 @@
 created: 20210518092431882
 creator: travonD
-modified: 20240601115638199
+modified: 20251104032454141
 modifier: travonD
 tags: 计算理论
 title: 编译
 tmap.id: f3dc298f-e2a8-4511-8696-6f5549fec447
 type: text/vnd.tiddlywiki
 
-编译是从高级程序代码（通常是文本）到机器操作码（二进制 ）的过程。
+编译是从高级程序代码（供人类阅读，通常是文本）到机器操作码（供机器执行，二进制 ）的过程。
