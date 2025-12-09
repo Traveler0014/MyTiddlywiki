@@ -1,0 +1,13 @@
+created: 20251208072256638
+creator: travonD
+draft.of: 新条目
+draft.title: End to End Data Protection
+modified: 20251208074310848
+modifier: travonD
+tags: NVMe
+title: Draft of '新条目' by travonD
+type: text/vnd.tiddlywiki
+
+端到端数据保护，是由 NVMe NVM Command Set Specification 定义的可选功能。
+
+通过metadata中校验数据段对用户数据进行校验，支持
