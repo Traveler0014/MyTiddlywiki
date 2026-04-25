@@ -1,10 +1,18 @@
 created: 20250606055933460
 creator: travonD
-modified: 20251208072248035
+modified: 20260424081009940
 modifier: travonD
 tags: 工程技术
 title: NVMe
 tmap.id: da4bee27-61ab-41a5-9ea2-56ac554e1a4b
 type: text/vnd.tiddlywiki
 
-Non-Volatile Memory Express（高速非易失存储）是一种存储器规范，定义了一种面向高随机读写性能的存储介质的交互协议。
+NVMe，全称Non-Volatile Memory Express，即高速非易失存储规范。
+
+该规范定义了一套现代存储的交互接口规范，主要面向以NAND Flash为介质的存储设备。
+
+NVMe 是一个协议族，由基础规范、IO规范、传输规范、MI规范等多个规范组成，分别定义了不同层级、场景的交互流程。
+
+[img[image.png]]
+
+其中基础规范（NVM Express Base Specification）相对核心，包含了对NVMe设备核心抽象、标准接口的说明。
