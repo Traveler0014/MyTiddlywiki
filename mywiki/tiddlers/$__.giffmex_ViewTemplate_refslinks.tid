@@ -1,0 +1,19 @@
+caption: Simple links
+created: 20200126143031898
+modified: 20231219154659365
+tags: $:/giffmex/blinks $:/giffmex/refs $:/giffmex/stroll $:/tags/ViewTemplate
+title: $:/.giffmex/ViewTemplate/refslinks
+type: text/vnd.tiddlywiki
+
+<span class="viewtemplatebigtext">
+
+<$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
+
+<$vars searchme=<<currentTiddler>> searchspx={{{ [<currentTiddler>escaperegexp[]]}}} >
+
+<$list filter="[!is[system]all[current]backlinks[]!tag[hide]sort[title]] -[is[current]]"><$link><$view field="title" /></$link><br></$list>
+</$vars>
+
+</$reveal>
+
+</span>

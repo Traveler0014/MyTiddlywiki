@@ -1,17 +1,17 @@
 created: 20230303144452465
 creator: travonD
-modified: 20250110012033432
+modified: 20260427070850745
 modifier: travonD
 tags: Python 软件工程
 title: WSGI
 tmap.id: 5b36f697-2857-4de2-a7a6-003ea0615f78
 type: text/vnd.tiddlywiki
 
-全称为‘‘Web Server Gateway Interface‘‘ （Web 服务器网关接口）， 是[[Python]] web 编程中的概念。
+全称为‘‘Web Server Gateway Interface‘‘ （Web 服务器网关接口）， 是 Python Web 应用开发的一套接口规范。
 
-粗略理解就是一套‘‘HTTP 解包工具‘‘， 负责从报文中拆出负载交付上层应用， 并定义了一套上层应用与之交互时的‘‘对接规范‘‘。
+明确规定了应用侧、网关侧、中间件的对外接口，以便上层开发的应用可以在多个框架中灵活切换。
 
-一段适配 WSGI 的示例代码如下：
+一段适配 WSGI 的示例应用侧代码如下：
 
 ```python
 # 接受两个入参, 依次是请求相关信息和响应回调函数
@@ -26,3 +26,7 @@ def application(request_info, response_callback):
     # 返回一个可迭代对象
     return iter(data)
 ```
+
+!! 外链
+
+* WSGI规范（PEP3333）：https://peps.python.org/pep-3333/

@@ -1,0 +1,12 @@
+created: 20260427033547147
+creator: travonD
+modified: 20260427034042853
+modifier: travonD
+tags: 数学
+title: 状态空间
+tmap.id: ff28f89e-c250-41bc-9b75-53658b764561
+type: text/vnd.tiddlywiki
+
+如果将系统中每个可能的状态都视为一个位置，这些状态的集合就可以看作一个空间，称为状态空间。
+
+系统状态变化就是在空间中的位移。

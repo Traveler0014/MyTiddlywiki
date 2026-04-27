@@ -1,10 +1,13 @@
 created: 20240912020547956
 creator: travonD
-modified: 20241201032025552
+modified: 20260427061423988
 modifier: travonD
-tags: 黑话词典
+tags: 黑话 计算机
 title: 批处理
 tmap.id: b9bbea61-4522-43ed-b56b-9fe3c5ce5312
 type: text/vnd.tiddlywiki
 
-Batch Process的微软风译名，原词直译为批量处理，实际概念上就和自动化差不多，批量只是更强调其更适用于完成大批量重复的任务，这种场景下单个任务通常不会太复杂。
+一般指微软Windows操作系统中.BAT后缀的 [[脚本]] 文件，因其代表 Batch Process （批量处理）而被翻译为批处理。
+
+但实际“批处理”这一概念涵盖会更广一些，可以指称一切通过自动化逻辑重复处理多个对象的流程。
+

@@ -1,0 +1,19 @@
+status: complete
+title: $:/Import
+type: text/vnd.tiddlywiki
+
+下列条目已被导入：
+
+# [[$:/config/EditorTypeMappings/text/vnd.tiddlywiki]]
+# [[$:/plugins/danielo515/ContextPlugin/Caption]]
+# [[$:/plugins/danielo515/ContextPlugin/widgets/context.js]]
+# [[$:/plugins/snowgoon88/edit-comptext/config]]
+# [[$:/.giffmex/.Stylesheet4Stroll]]
+# [[$:/.giffmex/sidebar/tabs/strollcontrols]]
+# [[$:/.giffmex/ViewTemplate/refscontext]]
+# [[$:/.giffmex/ViewTemplate/refshidden]]
+# [[$:/.giffmex/ViewTemplate/refslinks]]
+# [[$:/.giffmex/ViewTemplate/refstranscludeclean]]
+# [[$:/.giffmex/ViewTemplate/refstranscludecollapse]]
+# [[$:/config/RelinkOnRename]]
+# [[$:/plugins/danielo515/context/css]]
