@@ -1,0 +1,9 @@
+created: 20260428021913643
+creator: travonD
+modified: 20260428022328811
+modifier: travonD
+tags: NVMe
+title: Namespace Granularity
+type: text/vnd.tiddlywiki
+
+Namespace推荐的分配粒度，单位为Bytes，通常对应于底层存储介质的特征粒度（读/写/擦单元）。

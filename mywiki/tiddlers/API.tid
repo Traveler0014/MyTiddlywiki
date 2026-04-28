@@ -1,0 +1,11 @@
+created: 20260428021117386
+creator: travonD
+modified: 20260428021632086
+modifier: travonD
+tags: 计算机
+title: API
+type: text/vnd.tiddlywiki
+
+应用编程接口（Application Programming Interface），指面向程序调用的一套功能调用规范。
+
+形式上一般是对输入、输出的数据类型做约定，程序调用时应按约定构造对应的输入并预期对相应输出类型进行解析处理。

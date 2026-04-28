@@ -1,10 +1,10 @@
 created: 20220202121948220
 creator: travonD
-modified: 20260427061629397
+modified: 20260428014946304
 modifier: travonD
 tags: 黑话 计算机
 title: 运行时
 tmap.id: 7b08edfe-64e2-4a98-8fe0-9536ee685069
 type: text/vnd.tiddlywiki
 
-通常是指运行时库（Runtime Library），[[函数库|函数库/程序库]]的一种，提供 ABI 供其他程序在运行期间调用。
+通常是指运行时库（Runtime Library），[[函数库|库]]的一种，提供 ABI 供其他程序在运行期间调用。
