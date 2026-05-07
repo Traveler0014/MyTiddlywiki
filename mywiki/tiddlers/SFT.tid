@@ -1,0 +1,9 @@
+created: 20260507085935507
+creator: travonD
+modified: 20260507100045486
+modifier: travonD
+tags: 黑话 人工智能
+title: SFT
+type: text/vnd.tiddlywiki
+
+监督微调（Supervised Fine-Tuning），为了让LLM能够以要求的格式、风格生成内容，在预训练完成后人为给定成对输入/输出范例作为目标，训练并更新模型权重。
