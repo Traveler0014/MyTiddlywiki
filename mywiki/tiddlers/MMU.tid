@@ -1,0 +1,13 @@
+created: 20260709023942875
+creator: travonD
+modified: 20260709024821956
+modifier: travonD
+tags: 计算机组成
+title: MMU
+type: text/vnd.tiddlywiki
+
+Memory Manage Unit，内存管理单元，是负责执行内存地址转换和权限检查的硬件电路。
+
+MMU优先从TLB（Translation Lookaside Buffer）高速缓存中查询是否存在特定虚拟地址的缓存，单个时钟周期内返回结果。
+
+如果没有缓存，则按照PGD、PUD、PMD（P->Page，G/U/M->Global/Upper/Middle，D->Directory）逐级查表，称为页表遍历，最终从PT表中获取确切的PTE（Page Table Entry）查得虚拟内存地址到物理页帧的映射，返回结果并将结果更新到TLB缓存中。
